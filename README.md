@@ -2,7 +2,7 @@
 
 | Item               | Part Number / Model             | Description                                       | Qty | Vendor / Link                                                                 | Unit Price (USD)      |
 |--------------------|---------------------------------|---------------------------------------------------|-----|--------------------------------------------------------------------------------|-----------------------|
-| **SoC**            | RK3588S                         | Rockchip 8‑core SoC with 6 TOPS NPU               | 1   | [LCSC](https://lcsc.com/product-detail/Rockchip-RK3588S_C2940552.html)         | $88.27    |
+| **SoC**            | RK3588S                         | Rockchip 8‑core SoC with 6 TOPS NPU               | 1   | [LCSC](https://lcsc.com/product-detail/Microcontrollers-MCU-MPU-SOC_Rockchip-RK3588S_C7422743.html)         | $57.27    |
 | **RAM**            | K4F6E3S4HM‑MGCJ                 | Samsung 16 Gbit LPDDR4‑3733 Mbps FBGA‑200 (2 GB)   | 2   | [DigiKey](https://www.digikey.com/en/products/detail/arcotek/K4F6E3S4HM-MGCJ/24636027)              | $18.75    |
 | **eMMC Storage**   | EMMC16G‑MW28‑01E10              | Kingston 16 GB eMMC 5.1 HS400, 153‑FBGA            | 1   | [DigiKey](https://www.digikey.com.mx/es/products/detail/kingston-technology/EMMC16G-MW28-01E10/22187965) | $12.87    |
 | **NVMe Connector** | 123A‑40M00                      | ATTEND 67‑pos M.2 NGFF socket, Key M               | 1   | [DigiKey](https://www.digikey.com.mx/es/products/detail/attend-technology/123A-40M00/17633908)                | $2.12     |
