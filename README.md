@@ -13,6 +13,6 @@
 | **Ethernet PHY**   | RTL8211F‑CG                     | Realtek Gigabit Ethernet PHY, RGMII, QFN‑40       | 1   | [LCSC](https://lcsc.com/product-detail/Realtek-RTL8211F_C5248080.html)         | $0.72    |
 | **USB Hub/Port**   | FE1.1S‑BQFN24B                  | Terminus 4‑port USB 2.0 hub controller, WQFN‑24   | 1   | [LCSC](https://lcsc.com/product-detail/Terminus-FEI1S-BQFN24B_C6776948.html)   | $0.73    |
 | **Debug UART**     | CP2102N‑A02‑GQFN28              | Silicon Labs USB 2.0‑to‑UART bridge, QFN‑28       | 1   | [DigiKey](https://www.digikey.com/en/products/detail/silicon-labs/CP2102N-A02-GQFN28/9863477) | $4.32    |
-| **NPU (optional)** | Coral USB Accelerator           | M2 Google Edge TPU USB ML accelerator                | 1   | [SeeedStudio](https://www.seeedstudio.com/Coral-M-2-Accelerator-A-E-key-p-4412.html)                               | $59.99   |
+| **NPU (optional)** | Coral USB Accelerator           | M2 Google Edge TPU USB ML accelerator                | 1   | [SeeedStudio](https://www.seeedstudio.com/Coral-M-2-Accelerator-A-E-key-p-4412.html)                               | $24.99   |
 | **Misc**           | —                               | Crystals, passives, ESD diodes, resistors, caps   | many| N/A                                              | $3.00 (est.)            |
 
