@@ -4,7 +4,7 @@
 |--------------------|---------------------------------|---------------------------------------------------|-----|--------------------------------------------------------------------------------|-----------------------|
 | **SoC**            | RK3588S                         | Rockchip 8‑core SoC with 6 TOPS NPU               | 1   | [LCSC](https://lcsc.com/product-detail/Rockchip-RK3588S_C2940552.html)         | $88.27    |
 | **RAM**            | K4F6E3S4HM‑MGCJ                 | Samsung 16 Gbit LPDDR4‑3733 Mbps FBGA‑200 (2 GB)   | 2   | [DigiKey](https://www.digikey.com/en/products/detail/arcotek/K4F6E3S4HM-MGCJ/24636027)              | $18.75    |
-| **eMMC Storage**   | EMMC16G‑MW28‑01E10              | Kingston 16 GB eMMC 5.1 HS400, 153‑FBGA            | 1   | [DigiKey](https://www.digikey.com/product-detail/en/kingston/EMMC16G-MW28-01E10/5297-EMMC16G-TB29-90F01-ND/9577680) | $12.87    |
+| **eMMC Storage**   | EMMC16G‑MW28‑01E10              | Kingston 16 GB eMMC 5.1 HS400, 153‑FBGA            | 1   | [DigiKey](https://www.digikey.com.mx/es/products/detail/kingston-technology/EMMC16G-MW28-01E10/22187965) | $12.87    |
 | **NVMe Connector** | 123A‑40M00                      | ATTEND 67‑pos M.2 NGFF socket, Key M               | 1   | [Mouser](https://www.mouser.com/ProductDetail/Atten/123A-40M00)                | $2.12     |
 | **PMIC**           | RK809‑2                         | Rockchip power‑management IC, QFN‑68              | 1   | [LCSC](https://lcsc.com/product-detail/Rockchip-RK809_C2940553.html)           | $3.05     |
 | **Power Input**    | USB4220‑03‑0930‑C               | GCT USB‑C Receptacle 16 pos, 5 A / 48 V SMD       | 1   | [Mouser](https://www.mouser.com/ProductDetail/GCT/USB4220-03-0930-C)           | $0.92     |
