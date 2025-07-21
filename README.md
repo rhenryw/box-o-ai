@@ -1,4 +1,6 @@
-# box-o-ai BOM
+# Box 'o AI 
+
+Box 'o AI (BAI) is meant to be a solution for anybody to run a small AI model anywhere. Just plug in and code and you can build TONS of stuff with it. 
 
 | Item               | Part Number / Model             | Description                                       | Qty | Vendor / Link                                                                 | Unit Price (USD)      |
 |--------------------|---------------------------------|---------------------------------------------------|-----|--------------------------------------------------------------------------------|-----------------------|
